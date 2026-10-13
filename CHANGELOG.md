@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.7.20] - 2026-10-13
+
+### Changed
+
+- Replaced the legacy application icon with an original minimalist line-art cat mark created for this independent project.
+- Regenerated every macOS AppIcon size so the new mark is consistent in Finder, Dock, menu bar, and installers.
+
 ## [2.0.0] - 2026-08-30
 
 ### Added
